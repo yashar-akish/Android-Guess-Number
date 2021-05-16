@@ -1,2 +1,2 @@
 # Android-Guess-Number
-# usinjg: Random, radio button, Animation, Luncher page
+# using: Random, radio button, Animation, Luncher page
